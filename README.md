@@ -1,4 +1,4 @@
-![Coo](https://github.com/Pwaters90/Coo/blob/master/coo.jpg)
+![Coo](https://repository-images.githubusercontent.com/441897620/fb1db68a-ec46-4786-9c96-c1134fc7f4d6')
 
 # Coo - F.A.R.M BoilerPlate
 F.A.R.M - FastAPI, React, MongoDB
