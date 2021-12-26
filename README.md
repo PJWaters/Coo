@@ -1,3 +1,5 @@
+![Coo](https://github.com/Pwaters90/Coo/blob/master/coo.jpg)
+
 # Coo - F.A.R.M BoilerPlate
 F.A.R.M - FastAPI, React, MongoDB
 This boilerplate utilizes FastAPI to build a REST API, MongoDB for data storag, and React to build the front end
