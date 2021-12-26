@@ -1,6 +1,6 @@
 ![Coo](https://repository-images.githubusercontent.com/441897620/fb1db68a-ec46-4786-9c96-c1134fc7f4d6)
 
-# Coo - F.A.R.M BoilerPlate
+# Coo - F.A.R.M stack BoilerPlate
 F.A.R.M - FastAPI, React, MongoDB
 
 This boilerplate utilizes FastAPI to build a REST API, MongoDB for data storage, and React to build the front end
@@ -10,6 +10,7 @@ This boilerplate utilizes FastAPI to build a REST API, MongoDB for data storage,
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Python 3.8](https://www.python.org/downloads/release/python-380/)
+- [uvicorn](https://uvicorn.org/)
 
 ### Frontend
 - [React](https://reactjs.org/)
