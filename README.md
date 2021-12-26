@@ -29,6 +29,7 @@ Install the required packages using `pip install -r requirements.txt`
 Create a .env file in the backend directory and add the following variables:
 - `PORT` - The port to run the server on
 - `HOST` - The host IP to run the server on
+- `DEBUG_MODE` - Whether or not to run the server in debug mode
 - `MONGO_URI` - The URI to connect to MongoDB
 - `MONGO_DB_NAME` - The name of the database to connect to
 
